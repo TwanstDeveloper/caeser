@@ -1,0 +1,7 @@
+C:\Users\sha pc\source\repos\caeaser\caeaser\bin\Debug\caeaser.exe.config
+C:\Users\sha pc\source\repos\caeaser\caeaser\bin\Debug\caeaser.exe
+C:\Users\sha pc\source\repos\caeaser\caeaser\bin\Debug\caeaser.pdb
+C:\Users\sha pc\source\repos\caeaser\caeaser\obj\Debug\caeaser.csproj.AssemblyReference.cache
+C:\Users\sha pc\source\repos\caeaser\caeaser\obj\Debug\caeaser.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\source\repos\caeaser\caeaser\obj\Debug\caeaser.exe
+C:\Users\sha pc\source\repos\caeaser\caeaser\obj\Debug\caeaser.pdb
